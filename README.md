@@ -19,7 +19,6 @@ pip install numpy scikit-learn matplotlib
 
 ## ✅ CSV Format
 Your CSV file must follow this structure:
-...
 Date,Price
 1/2/2014,555.12
 1/3/2014,556.89
