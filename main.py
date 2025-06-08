@@ -56,7 +56,7 @@ def predict_price(dates, prices, x):
     return svr_rbf, svr_lin, svr_poly
 
 # PUT YOUR CSV FILE HERE 
-get_data("Prices - Main.csv")
+get_data("")
 
 def main():
     # Input for grabbing the date
